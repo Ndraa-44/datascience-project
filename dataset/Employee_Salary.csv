@@ -1,0 +1,23 @@
+employee_id,department,age,gender,monthly_salary,experienc_year
+1,Finance ,28,M,4500,2
+2,IT,32,Female,null,5
+3,Hr,,FEMAEL,10,11
+4,Mkting,25,male,3800,80
+5,finance,29,Male,4700,3
+6,IT,forty,Male,7200,12
+7,HR,34,Female,5100,seven
+8,IT,23,Female,3900,1
+9,Marketing,30,Female,?,4
+10,Finance,50,,8000,twenty
+11,IT,27,M,4.4k,2
+12,HR,31,Female,4950,
+9,Marketing,30,Female,?,4
+14,Finance,26,Female,3600,1
+15,IT,35,Male,6500,9
+16,hr,29,female,4800,3
+17,Marketing ,42,Female,5600,12
+18,FINANCE,33,male,5,3
+19,IT,24,Female,4000,one
+20,HR,37,Male,5400,9
+21,Finance ,28,M,4500,2
+22,IT,27,M,4.4k,2
